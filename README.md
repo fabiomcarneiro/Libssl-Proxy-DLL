@@ -13,7 +13,7 @@ Don't forget to add libssl-1_1.def as 'module definition File' on project settin
 Rename original dll to : libssl-1_1_org.dll
 Compile the Proxy DLL and copy to the executable folder
 
-![Example](https://github.com/fabiommc/Libssl-Proxy-DLL/example.png) 
+![Example](https://raw.githubusercontent.com/fabiommc/Libssl-Proxy-DLL/master/example.png) 
 
 #TODO
 
